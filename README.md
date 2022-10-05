@@ -33,7 +33,7 @@
 - tkinter Documentation
 - os Documentation
 
-#### Note: You would run this application as any other Python application using `python project.py` or `pytest project.py`. I am also working on a Sphinx documentation and a video to help explain my code in precise detail. You can refer to that if you have any queries based on my code. 
+#### Note: You would run this application as any other Python application using `python project.py` or `pytest project.py`. I am also working on documentation and a video to help explain my code in precise detail. You can refer to that if you have any queries based on my code. 
 
 ## Contributing
 Pull requests are welcome. For major changes, please open an issue first to discuss what you would like to change.
